@@ -20,4 +20,4 @@ c.So search lat = 25 and lng = -80 and play around these for different values.
 4.For Playing Around:
 a. I have also made routes for adding ninjas , updating and deleting them.
 b.So you can play around and add more ninjas or create a front end for CRUD operations on ninjas or a login page using jwt and password hash/bcrypt.
-c.OR since i have return the CRUD operations in the backend , you can test in postman.
+c.OR since i have written the CRUD operations in the backend , you can test in postman.
