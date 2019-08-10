@@ -16,3 +16,8 @@ b.now in terminal type nodemon index or better is npm run dev.
 a.server is hosted on localhost:1234 . 
 b.there is not much data inputed i.e. for the ninjas , I inputed only 6 ninjas data .
 c.So search lat = 25 and lng = -80 and play around these for different values.
+
+4.For Playing Around:
+a. I have also made routes for adding ninjas , updating and deleting them.
+b.So you can play around and add more ninjas or create a front end for CRUD operations on ninjas or a login page using jwt and password hash/bcrypt.
+c.OR since i have return the CRUD operations in the backend , you can test in postman.
