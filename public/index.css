@@ -1,0 +1,78 @@
+body {
+    font-family: Raleway;
+    color: #555;
+    background: #ff5252;
+    margin: 10px 30px;
+}
+
+#homepage {
+    max-width: 800px;
+    margin: 60px auto;
+    padding: 10px 20px;
+    background: #fdfdfd;
+    border-radius: 4px;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+input[type="text"] {
+    display: block;
+    width: 300px;
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    text-transform: capitalize;
+}
+
+label {
+    font-weight: bold;
+}
+
+.title {
+    color: #fff;
+    text-align: center;
+    font-size: 48px;
+}
+
+#homepage h1 {
+    text-align: center;
+}
+
+#ninjas {
+    display: flex;
+}
+
+#hire {
+    margin: 40px 0 0 10px;
+    padding: 5px;
+    text-transform: capitalize;
+    background-color: #ff5252;
+    color: white;
+    font-weight: bold;
+    border: none;
+    height: 35px;
+}
+
+#hire:hover {
+    cursor: pointer;
+    background-color: #A30015;
+    text-transform: uppercase;
+}
+
+.ninjaDiv {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    text-transform: capitalize;
+}
+
+.ninjaDiv div {
+    text-align: center;
+    border: 1px solid #ff5252;
+    margin-right: 20px;
+    width: 250px;
+    color: white;
+    font-weight: bold;
+    background: #ff5252;
+    border-radius: 10px;
+}
